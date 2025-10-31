@@ -1,0 +1,605 @@
+[
+  {
+    "patient_id": "PT0001",
+    "patient_name": "Melissa Robinson",
+    "discharge_date": "2025-10-08",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": [
+      "Valsartan 80mg daily",
+      "Furosemide 40mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), low protein (0.8g/kg/day)",
+    "follow_up": "Nephrology clinic in 2 weeks",
+    "warning_signs": "Nausea, vomiting, loss of appetite",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily",
+    "age": 39,
+    "gender": "Male",
+    "contact_phone": "555-3280",
+    "blood_pressure": "121/82",
+    "serum_creatinine": 1.32,
+    "egfr": 43
+  },
+  {
+    "patient_id": "PT0002",
+    "patient_name": "Melissa Clark",
+    "discharge_date": "2025-10-07",
+    "primary_diagnosis": "Kidney Stones",
+    "medications": [
+      "Mycophenolate 1000mg twice daily",
+      "Cyclosporine 150mg twice daily"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day), low potassium",
+    "follow_up": "Nephrology clinic in 3 weeks",
+    "warning_signs": "Swelling, shortness of breath, decreased urine output",
+    "discharge_instructions": "Weigh yourself daily, call if weight increases by more than 2 pounds in 24 hours",
+    "age": 43,
+    "gender": "Male",
+    "contact_phone": "555-3169",
+    "blood_pressure": "122/73",
+    "serum_creatinine": 1.68,
+    "egfr": 59
+  },
+  {
+    "patient_id": "PT0003",
+    "patient_name": "Mark Rodriguez",
+    "discharge_date": "2025-10-19",
+    "primary_diagnosis": "Diabetic Nephropathy",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day), low potassium",
+    "follow_up": "Primary care in 1 week, nephrology in 3 weeks",
+    "warning_signs": "High blood pressure, dizziness",
+    "discharge_instructions": "Weigh yourself daily, call if weight increases by more than 2 pounds in 24 hours",
+    "age": 67,
+    "gender": "Other",
+    "contact_phone": "555-9101",
+    "blood_pressure": "118/87",
+    "serum_creatinine": 2.99,
+    "egfr": 48
+  },
+  {
+    "patient_id": "PT0004",
+    "patient_name": "Christopher Thompson",
+    "discharge_date": "2025-10-15",
+    "primary_diagnosis": "Polycystic Kidney Disease",
+    "medications": [
+      "Amlodipine 5mg daily",
+      "Spironolactone 25mg daily",
+      "Metformin 500mg twice daily"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), low protein (0.8g/kg/day)",
+    "follow_up": "Follow-up labs in 1 week",
+    "warning_signs": "High blood pressure, dizziness",
+    "discharge_instructions": "Keep a daily log of blood pressure and weight",
+    "age": 43,
+    "gender": "Male",
+    "contact_phone": "555-4442",
+    "blood_pressure": "131/77",
+    "serum_creatinine": 2.53,
+    "egfr": 44
+  },
+  {
+    "patient_id": "PT0005",
+    "patient_name": "Angela Smith",
+    "discharge_date": "2025-10-22",
+    "primary_diagnosis": "Acute Kidney Injury",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": "Low sodium (1.5g/day), fluid restriction (2L/day), low phosphorus",
+    "follow_up": "Nephrology clinic in 3 weeks",
+    "warning_signs": "Swelling, shortness of breath, decreased urine output",
+    "discharge_instructions": "Weigh yourself daily, call if weight increases by more than 2 pounds in 24 hours",
+    "age": 80,
+    "gender": "Female",
+    "contact_phone": "555-5154",
+    "blood_pressure": "128/85",
+    "serum_creatinine": 1.54,
+    "egfr": 45
+  },
+  {
+    "patient_id": "PT0006",
+    "patient_name": "Michelle Lopez",
+    "discharge_date": "2025-10-06",
+    "primary_diagnosis": "Diabetic Nephropathy",
+    "medications": [
+      "Mycophenolate 1000mg twice daily",
+      "Cyclosporine 150mg twice daily"
+    ],
+    "dietary_restrictions": "Low sodium (1.5g/day), fluid restriction (2L/day), low phosphorus",
+    "follow_up": "Nephrology clinic in 2 weeks",
+    "warning_signs": "Swelling, shortness of breath, decreased urine output",
+    "discharge_instructions": "Monitor blood pressure and weight daily, report any concerns",
+    "age": 71,
+    "gender": "Female",
+    "contact_phone": "555-8606",
+    "blood_pressure": "129/89",
+    "serum_creatinine": 2.62,
+    "egfr": 45
+  },
+  {
+    "patient_id": "PT0007",
+    "patient_name": "James Garcia",
+    "discharge_date": "2025-10-16",
+    "primary_diagnosis": "Glomerulonephritis",
+    "medications": [
+      "Olmesartan 20mg daily",
+      "Torsemide 20mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (1.5g/day), low potassium, fluid restriction (2L/day)",
+    "follow_up": "Nephrology clinic in 1 month",
+    "warning_signs": "Muscle cramps, weakness, confusion",
+    "discharge_instructions": "Keep a daily log of blood pressure and weight",
+    "age": 46,
+    "gender": "Male",
+    "contact_phone": "555-9202",
+    "blood_pressure": "113/76",
+    "serum_creatinine": 1.89,
+    "egfr": 43
+  },
+  {
+    "patient_id": "PT0008",
+    "patient_name": "Jane Wilson",
+    "discharge_date": "2025-10-08",
+    "primary_diagnosis": "Diabetic Nephropathy",
+    "medications": [
+      "Prednisone 20mg daily",
+      "Tacrolimus 2mg twice daily"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), protein restriction (0.6g/kg/day)",
+    "follow_up": "Nephrology clinic in 3 weeks",
+    "warning_signs": "Swelling, shortness of breath, decreased urine output",
+    "discharge_instructions": "Monitor blood pressure twice daily, limit salt intake",
+    "age": 57,
+    "gender": "Male",
+    "contact_phone": "555-4908",
+    "blood_pressure": "133/88",
+    "serum_creatinine": 1.28,
+    "egfr": 49
+  },
+  {
+    "patient_id": "PT0009",
+    "patient_name": "Christopher Moore",
+    "discharge_date": "2025-10-10",
+    "primary_diagnosis": "Interstitial Nephritis",
+    "medications": [
+      "Mycophenolate 1000mg twice daily",
+      "Cyclosporine 150mg twice daily"
+    ],
+    "dietary_restrictions": "Low sodium (1.5g/day), low potassium, fluid restriction (2L/day)",
+    "follow_up": "Nephrology clinic in 2-3 weeks",
+    "warning_signs": "Muscle cramps, weakness, confusion",
+    "discharge_instructions": "Take all medications with food, monitor for side effects",
+    "age": 82,
+    "gender": "Male",
+    "contact_phone": "555-2025",
+    "blood_pressure": "110/78",
+    "serum_creatinine": 3.12,
+    "egfr": 33
+  },
+  {
+    "patient_id": "PT0010",
+    "patient_name": "Amy Harris",
+    "discharge_date": "2025-10-28",
+    "primary_diagnosis": "Proteinuria",
+    "medications": [
+      "Prednisone 20mg daily",
+      "Tacrolimus 2mg twice daily"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), low protein (0.8g/kg/day)",
+    "follow_up": "Follow-up labs in 1 week",
+    "warning_signs": "Excessive fatigue, difficulty concentrating",
+    "discharge_instructions": "Take medications at the same time each day, maintain fluid restrictions",
+    "age": 41,
+    "gender": "Female",
+    "contact_phone": "555-1068",
+    "blood_pressure": "124/89",
+    "serum_creatinine": 1.76,
+    "egfr": 50
+  },
+  {
+    "patient_id": "PT0011",
+    "patient_name": "Jane Johnson",
+    "discharge_date": "2025-10-27",
+    "primary_diagnosis": "Proteinuria",
+    "medications": [
+      "Amlodipine 5mg daily",
+      "Spironolactone 25mg daily",
+      "Metformin 500mg twice daily"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day), low potassium",
+    "follow_up": "Primary care in 1 week, nephrology in 3 weeks",
+    "warning_signs": "Chest pain, difficulty breathing, rapid weight gain",
+    "discharge_instructions": "Weigh yourself daily, call if weight increases by more than 2 pounds in 24 hours",
+    "age": 56,
+    "gender": "Female",
+    "contact_phone": "555-5355",
+    "blood_pressure": "134/74",
+    "serum_creatinine": 1.84,
+    "egfr": 59
+  },
+  {
+    "patient_id": "PT0012",
+    "patient_name": "Angela Brown",
+    "discharge_date": "2025-09-29",
+    "primary_diagnosis": "Kidney Transplant Follow-up",
+    "medications": [
+      "Captopril 25mg twice daily",
+      "Triamterene 50mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (2.5g/day), fluid restriction (1L/day)",
+    "follow_up": "Lab work and nephrology clinic in 2 weeks",
+    "warning_signs": "Swelling in face, hands, or feet",
+    "discharge_instructions": "Keep a daily log of blood pressure and weight",
+    "age": 63,
+    "gender": "Other",
+    "contact_phone": "555-7602",
+    "blood_pressure": "124/71",
+    "serum_creatinine": 2.16,
+    "egfr": 60
+  },
+  {
+    "patient_id": "PT0013",
+    "patient_name": "David Moore",
+    "discharge_date": "2025-10-11",
+    "primary_diagnosis": "Diabetic Nephropathy",
+    "medications": [
+      "Captopril 25mg twice daily",
+      "Triamterene 50mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Nephrology clinic in 3 weeks",
+    "warning_signs": "High blood pressure, dizziness",
+    "discharge_instructions": "Monitor blood pressure and weight daily, report any concerns",
+    "age": 68,
+    "gender": "Male",
+    "contact_phone": "555-5023",
+    "blood_pressure": "133/81",
+    "serum_creatinine": 2.75,
+    "egfr": 38
+  },
+  {
+    "patient_id": "PT0014",
+    "patient_name": "Andrew Young",
+    "discharge_date": "2025-10-27",
+    "primary_diagnosis": "Glomerulonephritis",
+    "medications": [
+      "Valsartan 80mg daily",
+      "Furosemide 40mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), low protein (0.8g/kg/day)",
+    "follow_up": "Nephrology clinic in 2 weeks",
+    "warning_signs": "Swelling, shortness of breath, decreased urine output",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily",
+    "age": 70,
+    "gender": "Male",
+    "contact_phone": "555-6795",
+    "blood_pressure": "111/89",
+    "serum_creatinine": 2.59,
+    "egfr": 32
+  },
+  {
+    "patient_id": "PT0015",
+    "patient_name": "Melissa Thompson",
+    "discharge_date": "2025-10-15",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 4",
+    "medications": [
+      "Ramipril 5mg daily",
+      "Hydrochlorothiazide 12.5mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (1.5g/day), fluid restriction (2L/day), low phosphorus",
+    "follow_up": "Lab work and nephrology clinic in 2 weeks",
+    "warning_signs": "Fever, chills, pain at surgical site (if applicable)",
+    "discharge_instructions": "Follow low-sodium diet strictly, keep all follow-up appointments",
+    "age": 73,
+    "gender": "Other",
+    "contact_phone": "555-3500",
+    "blood_pressure": "126/89",
+    "serum_creatinine": 1.62,
+    "egfr": 50
+  },
+  {
+    "patient_id": "PT0016",
+    "patient_name": "Daniel Garcia",
+    "discharge_date": "2025-10-16",
+    "primary_diagnosis": "Kidney Stones",
+    "medications": [
+      "Olmesartan 20mg daily",
+      "Torsemide 20mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Primary care in 2 weeks",
+    "warning_signs": "Muscle cramps, weakness, confusion",
+    "discharge_instructions": "Keep a daily log of blood pressure and weight",
+    "age": 72,
+    "gender": "Female",
+    "contact_phone": "555-3819",
+    "blood_pressure": "119/72",
+    "serum_creatinine": 2.6,
+    "egfr": 53
+  },
+  {
+    "patient_id": "PT0017",
+    "patient_name": "Nicole Anderson",
+    "discharge_date": "2025-10-23",
+    "primary_diagnosis": "Kidney Stones",
+    "medications": [
+      "Valsartan 80mg daily",
+      "Furosemide 40mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (2.5g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Nephrology clinic in 2 weeks",
+    "warning_signs": "High blood pressure, dizziness",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily",
+    "age": 67,
+    "gender": "Female",
+    "contact_phone": "555-2232",
+    "blood_pressure": "113/90",
+    "serum_creatinine": 2.52,
+    "egfr": 39
+  },
+  {
+    "patient_id": "PT0018",
+    "patient_name": "David Taylor",
+    "discharge_date": "2025-10-07",
+    "primary_diagnosis": "Polycystic Kidney Disease",
+    "medications": [
+      "Losartan 50mg daily",
+      "Chlorthalidone 25mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), protein restriction (0.6g/kg/day)",
+    "follow_up": "Nephrology clinic in 2 weeks",
+    "warning_signs": "Severe headache, vision changes, chest pain",
+    "discharge_instructions": "Monitor blood pressure and weight daily, report any concerns",
+    "age": 47,
+    "gender": "Other",
+    "contact_phone": "555-3811",
+    "blood_pressure": "126/87",
+    "serum_creatinine": 1.24,
+    "egfr": 30
+  },
+  {
+    "patient_id": "PT0019",
+    "patient_name": "Michelle Jones",
+    "discharge_date": "2025-10-06",
+    "primary_diagnosis": "Renal Artery Stenosis",
+    "medications": [
+      "Enalapril 10mg twice daily",
+      "Bumetanide 1mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), low protein (0.8g/kg/day)",
+    "follow_up": "Nephrology clinic in 2-3 weeks",
+    "warning_signs": "Fever, chills, pain at surgical site (if applicable)",
+    "discharge_instructions": "Take medications at the same time each day, maintain fluid restrictions",
+    "age": 59,
+    "gender": "Other",
+    "contact_phone": "555-1267",
+    "blood_pressure": "128/72",
+    "serum_creatinine": 2.74,
+    "egfr": 52
+  },
+  {
+    "patient_id": "PT0020",
+    "patient_name": "Donald Walker",
+    "discharge_date": "2025-10-08",
+    "primary_diagnosis": "Interstitial Nephritis",
+    "medications": [
+      "Ramipril 5mg daily",
+      "Hydrochlorothiazide 12.5mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day), low potassium",
+    "follow_up": "Nephrology clinic in 1 month",
+    "warning_signs": "Blood in urine, decreased urine output",
+    "discharge_instructions": "Weigh yourself daily, call if weight increases by more than 2 pounds in 24 hours",
+    "age": 39,
+    "gender": "Other",
+    "contact_phone": "555-6055",
+    "blood_pressure": "119/79",
+    "serum_creatinine": 1.79,
+    "egfr": 35
+  },
+  {
+    "patient_id": "PT0021",
+    "patient_name": "Jessica White",
+    "discharge_date": "2025-10-01",
+    "primary_diagnosis": "Nephrotic Syndrome",
+    "medications": [
+      "Enalapril 10mg twice daily",
+      "Bumetanide 1mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day), low potassium",
+    "follow_up": "Nephrology clinic in 2-3 weeks",
+    "warning_signs": "Fever, chills, pain at surgical site (if applicable)",
+    "discharge_instructions": "Take medications as prescribed, follow-up in 1 week",
+    "age": 68,
+    "gender": "Other",
+    "contact_phone": "555-1369",
+    "blood_pressure": "139/88",
+    "serum_creatinine": 3.1,
+    "egfr": 43
+  },
+  {
+    "patient_id": "PT0022",
+    "patient_name": "Steven Rodriguez",
+    "discharge_date": "2025-10-02",
+    "primary_diagnosis": "Diabetic Nephropathy",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": "Low sodium (2.5g/day), fluid restriction (1L/day)",
+    "follow_up": "Lab work in 1 week, nephrology follow-up in 2 weeks",
+    "warning_signs": "Nausea, vomiting, loss of appetite",
+    "discharge_instructions": "Take medications as prescribed, follow-up in 1 week",
+    "age": 68,
+    "gender": "Male",
+    "contact_phone": "555-5357",
+    "blood_pressure": "140/70",
+    "serum_creatinine": 3.41,
+    "egfr": 52
+  },
+  {
+    "patient_id": "PT0023",
+    "patient_name": "Ashley Jackson",
+    "discharge_date": "2025-10-14",
+    "primary_diagnosis": "Kidney Transplant Follow-up",
+    "medications": [
+      "Losartan 50mg daily",
+      "Chlorthalidone 25mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day), low potassium",
+    "follow_up": "Nephrology clinic in 2 weeks",
+    "warning_signs": "High blood pressure, dizziness",
+    "discharge_instructions": "Take medications at the same time each day, maintain fluid restrictions",
+    "age": 82,
+    "gender": "Other",
+    "contact_phone": "555-4502",
+    "blood_pressure": "140/71",
+    "serum_creatinine": 3.06,
+    "egfr": 54
+  },
+  {
+    "patient_id": "PT0024",
+    "patient_name": "Jane Brown",
+    "discharge_date": "2025-09-30",
+    "primary_diagnosis": "Kidney Stones",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": "Low sodium (1.5g/day), low potassium, fluid restriction (2L/day)",
+    "follow_up": "Nephrology clinic in 2-3 weeks",
+    "warning_signs": "Severe headache, vision changes, chest pain",
+    "discharge_instructions": "Take medications as prescribed, follow-up in 1 week",
+    "age": 51,
+    "gender": "Male",
+    "contact_phone": "555-8331",
+    "blood_pressure": "113/81",
+    "serum_creatinine": 3.09,
+    "egfr": 35
+  },
+  {
+    "patient_id": "PT0025",
+    "patient_name": "Nancy Davis",
+    "discharge_date": "2025-10-09",
+    "primary_diagnosis": "Renal Failure",
+    "medications": [
+      "Lisinopril 10mg daily",
+      "Furosemide 20mg twice daily"
+    ],
+    "dietary_restrictions": "Low sodium (2.5g/day), fluid restriction (1L/day)",
+    "follow_up": "Nephrology clinic in 2-3 weeks",
+    "warning_signs": "Muscle cramps, weakness, confusion",
+    "discharge_instructions": "Monitor blood pressure twice daily, limit salt intake",
+    "age": 45,
+    "gender": "Female",
+    "contact_phone": "555-8567",
+    "blood_pressure": "137/74",
+    "serum_creatinine": 2.65,
+    "egfr": 46
+  },
+  {
+    "patient_id": "PT0026",
+    "patient_name": "James Martinez",
+    "discharge_date": "2025-10-08",
+    "primary_diagnosis": "Nephrotic Syndrome",
+    "medications": [
+      "Ramipril 5mg daily",
+      "Hydrochlorothiazide 12.5mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (2.5g/day), fluid restriction (1L/day)",
+    "follow_up": "Primary care in 1 week, nephrology in 3 weeks",
+    "warning_signs": "Severe headache, vision changes, chest pain",
+    "discharge_instructions": "Follow low-sodium diet strictly, keep all follow-up appointments",
+    "age": 65,
+    "gender": "Female",
+    "contact_phone": "555-3140",
+    "blood_pressure": "120/83",
+    "serum_creatinine": 3.08,
+    "egfr": 42
+  },
+  {
+    "patient_id": "PT0027",
+    "patient_name": "Christopher Lewis",
+    "discharge_date": "2025-10-09",
+    "primary_diagnosis": "Kidney Transplant Follow-up",
+    "medications": [
+      "Captopril 25mg twice daily",
+      "Triamterene 50mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (1.5g/day), low potassium, fluid restriction (2L/day)",
+    "follow_up": "Nephrology clinic in 1 month",
+    "warning_signs": "High blood pressure, dizziness",
+    "discharge_instructions": "Monitor blood pressure twice daily, limit salt intake",
+    "age": 45,
+    "gender": "Female",
+    "contact_phone": "555-6959",
+    "blood_pressure": "126/78",
+    "serum_creatinine": 3.31,
+    "egfr": 34
+  },
+  {
+    "patient_id": "PT0028",
+    "patient_name": "Lisa Jones",
+    "discharge_date": "2025-10-15",
+    "primary_diagnosis": "Proteinuria",
+    "medications": [
+      "Amlodipine 5mg daily",
+      "Spironolactone 25mg daily",
+      "Metformin 500mg twice daily"
+    ],
+    "dietary_restrictions": "Low sodium (2.5g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Primary care in 2 weeks",
+    "warning_signs": "Blood in urine, decreased urine output",
+    "discharge_instructions": "Avoid NSAIDs, follow dietary restrictions carefully",
+    "age": 76,
+    "gender": "Female",
+    "contact_phone": "555-7558",
+    "blood_pressure": "129/77",
+    "serum_creatinine": 1.84,
+    "egfr": 43
+  },
+  {
+    "patient_id": "PT0029",
+    "patient_name": "Anthony Thomas",
+    "discharge_date": "2025-10-24",
+    "primary_diagnosis": "Nephrotic Syndrome",
+    "medications": [
+      "Olmesartan 20mg daily",
+      "Torsemide 20mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (1.5g/day), fluid restriction (2L/day), low phosphorus",
+    "follow_up": "Nephrology clinic in 3 weeks",
+    "warning_signs": "Swelling, shortness of breath, decreased urine output",
+    "discharge_instructions": "Take medications as prescribed, follow-up in 1 week",
+    "age": 66,
+    "gender": "Female",
+    "contact_phone": "555-2187",
+    "blood_pressure": "134/80",
+    "serum_creatinine": 1.86,
+    "egfr": 31
+  },
+  {
+    "patient_id": "PT0030",
+    "patient_name": "Christopher Johnson",
+    "discharge_date": "2025-10-23",
+    "primary_diagnosis": "Nephritis",
+    "medications": [
+      "Enalapril 10mg twice daily",
+      "Bumetanide 1mg daily"
+    ],
+    "dietary_restrictions": "Low sodium (2.5g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Lab work and nephrology clinic in 2 weeks",
+    "warning_signs": "Excessive fatigue, difficulty concentrating",
+    "discharge_instructions": "Keep a daily log of blood pressure and weight",
+    "age": 46,
+    "gender": "Male",
+    "contact_phone": "555-7843",
+    "blood_pressure": "134/71",
+    "serum_creatinine": 1.57,
+    "egfr": 45
+  },
+]

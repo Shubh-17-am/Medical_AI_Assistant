@@ -1,0 +1,33 @@
+# Core Dependencies
+fastapi
+
+uvicorn
+streamlit
+python-multipart
+
+# LLM and Agents
+langchain
+langchain-groq
+langchain-community
+
+# Vector Database and Embeddings
+chromadb
+sentence-transformers
+
+# PDF Processing
+pypdf2
+pdfplumber
+
+# Database
+sqlalchemy
+
+# Web Search
+requests
+beautifulsoup4
+
+# Utilities
+pydantic
+python-dotenv
+pandas
+numpy
+
